@@ -1,0 +1,11 @@
+se 1 = não, 2 ate 6 tem de ser nulo e 7 não
+se 1 = sim, 2 / 3 nao pode ser nulo 
+se 2 = não, 3/4/5/6 tem de ser nulo e 7 não
+se 4 = não, 5 tem de ser nulo e 6 não pode ser
+se 5 = sim, 6/7 tem de ser nulo e 8 não pode ser
+7 nao pode ser nulo
+se 7 = false entao 8 e 9 tem de ser nulo e 10 não
+se 8 for false,entao 9 tem de ser nulo e 10 não 
+se 8 = true,v9/v10/v11/v12/v13 n pode ser nulo
+10,11,12 não pode ser nulo
+11,12 tem de ser de 1 ate 5
